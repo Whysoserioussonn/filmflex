@@ -44,7 +44,7 @@ https://filmflix2-639e3.web.app/
 
 
 
-## Installation
+## Installation Dependencies
 
 Install my-project with npm
 
@@ -53,9 +53,13 @@ Install my-project with npm
   cd my-project
   npm install react-router-dom react-icons axios firebase
   npm install tailwindcss postcss autoprefixer
-  npx tailwindcss
+  npx tailwindcss 
   
 ```
+## Recommended Visual Code Extentions
+- ES7+ React/Redux/React- Native snippets - loads functions with prefix statements example rafce
+- Tailwind CSS IntelliSense - provides users with advanced features such as autocomplete, syntax highlighting, and linting.
+- Pettier- Code Formatter - code formatter that enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
     
 ## Screenshots
 
