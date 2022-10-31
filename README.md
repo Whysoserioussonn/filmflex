@@ -45,7 +45,7 @@ Install my-project with npm
 ```bash
   npx install create-react-app my-project
   cd my-project
-  npm install react-router-dom react-player axios firebase
+  npm install react-router-dom react-icons axios firebase
   npm install tailwindcss postcss autoprefixer
   npx tailwindcss
   
