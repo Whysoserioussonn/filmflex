@@ -20,7 +20,7 @@ The goal of this project was to create a Front End React with the following Requ
 - Use a CSS Framework (like BootstrapLinks to an external site.) to style part of your application ✔️
 
 I chose to use a MOVIE database API with a Halloween Theme from the API datebase at "https://www.themoviedb.org/"
-to make a website where a user can choose a film to watch from a list 
+to make a mobile friednly/website app where a user can choose a film to watch from a list 
 set by categories. The user can scroll to see whats available in each category but if they
 want to use the favorites option, they have to sign up with a username and password, After they are sign up, they are automatically logged in to add and delete faves at will. The target end user for this project are people that like to watch movies. 
 
