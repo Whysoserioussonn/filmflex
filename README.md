@@ -25,13 +25,13 @@ https://filmflix2-639e3.web.app/
 
  - [Awesome README Template](https://readme.so/editor)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- -[Learn React in  8 hours](https://www.youtube.com/watch?v=f55qeKGgB_M)
- -[Firebase docs](https://firebase.google.com/)
- -[Introductin to TheMovieDB API](https://www.youtube.com/watch?v=bpHtxx_wmqw)
- -[tailwindcss installation guide](https://tailwindcss.com/docs/guides/create-react-app)
- -[Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
- -[Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://www.youtube.com/watch?v=_oO4Qi5aVZs)
- -[How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
+ - [Learn React in  8 hours](https://www.youtube.com/watch?v=f55qeKGgB_M)
+ - [Firebase docs](https://firebase.google.com/)
+ - [Introductin to TheMovieDB API](https://www.youtube.com/watch?v=bpHtxx_wmqw)
+ - [tailwindcss installation guide](https://tailwindcss.com/docs/guides/create-react-app)
+ - [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
+ - [Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://www.youtube.com/watch?v=_oO4Qi5aVZs)
+ - [How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
 
 
 
