@@ -12,7 +12,7 @@ Has README.md file at the root of repository that clearly documents the purpose 
 Must have a repository and make regular commits (at least 10 total)
 Must be deployed (a good option is NetlifyLinks to an external site.)
 
-I chose to use a MOVIE database API from "https://www.themoviedb.org/"
+I chose to use a MOVIE database API with a Halloween Theme from "https://www.themoviedb.org/"
 to make a website where a user can choose a film to watch from a list 
 set by categories. The user can scroll to see whats available ion each catergory but if they
 want to use the favorites option, they have to sign up with a username and password,
