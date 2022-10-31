@@ -60,6 +60,12 @@ Install my-project with npm
 - ES7+ React/Redux/React- Native snippets - loads functions with prefix statements example rafce
 - Tailwind CSS IntelliSense - provides users with advanced features such as autocomplete, syntax highlighting, and linting.
 - Pettier- Code Formatter - code formatter that enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+## Future Developments
+- Add a watchlist 
+- Would be nice to have a pagination page when a user reaches the endd of the scroll for the catergory
+- Add a trailer if possible for each movie
+- Add a fucntion where the user can delete their own username once they log in 
     
 ## Screenshots
 
