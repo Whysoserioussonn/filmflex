@@ -16,7 +16,7 @@ I chose to use a MOVIE database API with a Halloween Theme from "https://www.the
 to make a website where a user can choose a film to watch from a list 
 set by categories. The user can scroll to see whats available ion each catergory but if they
 want to use the favorites option, they have to sign up with a username and password,
-then are automatically logged in to add and delete faves at will.
+then are automatically logged in to add and delete faves at will. The target end user for this project are people that like to watch movies. 
 ## Acknowledgements
 
  - [Awesome README Template](https://readme.so/editor)
