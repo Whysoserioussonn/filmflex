@@ -3,6 +3,7 @@ import { React, useEffect, useState } from "react";
 import { FaChevronCircleLeft, FaChevronCircleRight } from "react-icons/fa";
 import Movie from "./Movie";
 
+// props that are being passed to our homepage
 const Row = ({ title, fetchURL, rowID }) => {
   const [movies, setMovies] = useState([]);
 
@@ -13,10 +14,15 @@ const Row = ({ title, fetchURL, rowID }) => {
   }, [fetchURL]);
 
   //console.log(movies);
+
+  //fucntion to scroll left
+  // add a row ID to each row component in homepage or only the top row will slide no matter what row you pick
   const slideLeft = () => {
-    var slider = document.getElementById("slider" + rowID);
+    var slider = document.getElementById("slider" + rowID);  
     slider.scrollLeft = slider.scrollLeft - 500;
   };
+
+  //function to scroll right
   const slideRight = () => {
     var slider = document.getElementById("slider" + rowID);
     slider.scrollLeft = slider.scrollLeft + 500;
